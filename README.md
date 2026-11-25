@@ -1,5 +1,4 @@
 this is a simple radar bulit with a sensor and an arduino uno
-i didnt write most of the code, just corrected it a little, aaron125d did
 
 Prequisites:
 
