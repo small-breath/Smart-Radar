@@ -1,4 +1,4 @@
-This is a simple radar built with a sensor and an Arduino UNO.
+This is a simple radar built with a sensor and an Arduino UNO. I'm not good at the wiring so you might want someone else o help you with it
 
 Prerequisites:
 
