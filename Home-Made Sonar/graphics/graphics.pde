@@ -15,7 +15,7 @@ void setup() {
   size(1440, 900); // set this to your screen resolution
   smooth();
   // Change the port to yours (see Arduino IDE > Tools > Port)
-  myPort = new Serial(this, "/dev/cu.usbmodem14101", 9600);
+  myPort = new Serial(this, "/dev/cu.usbmodem14201", 9600);
   myPort.bufferUntil('.'); // Arduino sends "angle,distance."
 }
 
